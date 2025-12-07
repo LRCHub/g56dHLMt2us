@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Collision",
+  "base_artist": "Stray Kids",
+  "createdAt": "2025-12-07T16:14:58.987131Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Keep Feeling) Fascination [Groove Collision T.M.C. Mix]",
+      "artist": "The Human League",
+      "has_synced": false,
+      "path": "select/01_(Keep_Feeling)_Fascination_[Groove_Collision_T.M.C._Mix]_The_Human_League.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(Keep Feeling) Fascination (Groove Collision Tmc Mix",
+      "artist": "The Human League",
+      "has_synced": false,
+      "path": "select/02_(Keep_Feeling)_Fascination_(Groove_Collision_Tmc_Mix_The_Human_League.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Collision",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/03_Collision_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Collision Course",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/04_Collision_Course_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Collision Course",
+      "artist": "Paradox",
+      "has_synced": true,
+      "path": "select/05_Collision_Course_Paradox.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Collision (feat. Tommy Karevik, Marko Hietala)",
+      "artist": "Ayreon feat. Marko Hietala & Tommy Karevik",
+      "has_synced": true,
+      "path": "select/06_Collision_(feat._Tommy_Karevik,_Marko_Hietala)_Ayreon_feat._Marko_Hietala_&_Tommy_Karevik.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Head On Collision",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/07_Head_On_Collision_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mixed Up World (Groove Collision Vocal Mix)",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": false,
+      "path": "select/08_Mixed_Up_World_(Groove_Collision_Vocal_Mix)_Sophie_Ellis-Bextor.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Collision Course",
+      "artist": "Rancid",
+      "has_synced": true,
+      "path": "select/09_Collision_Course_Rancid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Decision Or Collision",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/10_Decision_Or_Collision_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Collision (2016 Remaster)",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/11_Collision_(2016_Remaster)_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Collision - Live from Phoenix Festival; 2016 Remastered Version",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/12_Collision_-_Live_from_Phoenix_Festival;_2016_Remastered_Version_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Collision (Live from Phoenix Festival; 2016 Remaster)",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/13_Collision_(Live_from_Phoenix_Festival;_2016_Remaster)_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Collision",
+      "artist": "As I Lay Dying",
+      "has_synced": true,
+      "path": "select/14_Collision_As_I_Lay_Dying.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Collision",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_Collision_Stray_Kids.txt"
+    }
+  ]
+}
